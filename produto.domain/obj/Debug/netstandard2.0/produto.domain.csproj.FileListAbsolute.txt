@@ -1,9 +1,0 @@
-/home/fernandocardo/dev/dotnet/produto/produto.domain/bin/Debug/netstandard2.0/produto.domain.deps.json
-/home/fernandocardo/dev/dotnet/produto/produto.domain/bin/Debug/netstandard2.0/produto.domain.dll
-/home/fernandocardo/dev/dotnet/produto/produto.domain/bin/Debug/netstandard2.0/produto.domain.pdb
-/home/fernandocardo/dev/dotnet/produto/produto.domain/obj/Debug/netstandard2.0/produto.domain.csprojAssemblyReference.cache
-/home/fernandocardo/dev/dotnet/produto/produto.domain/obj/Debug/netstandard2.0/produto.domain.csproj.CoreCompileInputs.cache
-/home/fernandocardo/dev/dotnet/produto/produto.domain/obj/Debug/netstandard2.0/produto.domain.AssemblyInfoInputs.cache
-/home/fernandocardo/dev/dotnet/produto/produto.domain/obj/Debug/netstandard2.0/produto.domain.AssemblyInfo.cs
-/home/fernandocardo/dev/dotnet/produto/produto.domain/obj/Debug/netstandard2.0/produto.domain.dll
-/home/fernandocardo/dev/dotnet/produto/produto.domain/obj/Debug/netstandard2.0/produto.domain.pdb
