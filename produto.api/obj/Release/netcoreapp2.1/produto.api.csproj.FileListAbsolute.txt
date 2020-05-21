@@ -1,0 +1,17 @@
+/home/fernandocardo/dev/dotnet/produto/produto.api/bin/Release/netcoreapp2.1/produto.api.deps.json
+/home/fernandocardo/dev/dotnet/produto/produto.api/bin/Release/netcoreapp2.1/produto.api.runtimeconfig.json
+/home/fernandocardo/dev/dotnet/produto/produto.api/bin/Release/netcoreapp2.1/produto.api.runtimeconfig.dev.json
+/home/fernandocardo/dev/dotnet/produto/produto.api/bin/Release/netcoreapp2.1/produto.api.dll
+/home/fernandocardo/dev/dotnet/produto/produto.api/bin/Release/netcoreapp2.1/produto.api.pdb
+/home/fernandocardo/dev/dotnet/produto/produto.api/bin/Release/netcoreapp2.1/produto.domain.dll
+/home/fernandocardo/dev/dotnet/produto/produto.api/bin/Release/netcoreapp2.1/produto.domain.pdb
+/home/fernandocardo/dev/dotnet/produto/produto.api/obj/Release/netcoreapp2.1/produto.api.csprojAssemblyReference.cache
+/home/fernandocardo/dev/dotnet/produto/produto.api/obj/Release/netcoreapp2.1/produto.api.csproj.CoreCompileInputs.cache
+/home/fernandocardo/dev/dotnet/produto/produto.api/obj/Release/netcoreapp2.1/produto.api.RazorAssemblyInfo.cache
+/home/fernandocardo/dev/dotnet/produto/produto.api/obj/Release/netcoreapp2.1/produto.api.RazorAssemblyInfo.cs
+/home/fernandocardo/dev/dotnet/produto/produto.api/obj/Release/netcoreapp2.1/produto.api.AssemblyInfoInputs.cache
+/home/fernandocardo/dev/dotnet/produto/produto.api/obj/Release/netcoreapp2.1/produto.api.AssemblyInfo.cs
+/home/fernandocardo/dev/dotnet/produto/produto.api/obj/Release/netcoreapp2.1/produto.api.RazorTargetAssemblyInfo.cache
+/home/fernandocardo/dev/dotnet/produto/produto.api/obj/Release/netcoreapp2.1/produto.api.csproj.CopyComplete
+/home/fernandocardo/dev/dotnet/produto/produto.api/obj/Release/netcoreapp2.1/produto.api.dll
+/home/fernandocardo/dev/dotnet/produto/produto.api/obj/Release/netcoreapp2.1/produto.api.pdb
